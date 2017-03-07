@@ -16,7 +16,11 @@
     document.querySelector("#content").style.marginRight = 0;
 
     var tab = document.querySelectorAll(".bbcode_code");
-    for (var i = 0 ; i < tab.length ; i++) tab[i].style.overflow = "visible";
+    for (var i = 0 ; i < tab.length ; i++) {
+        tab[i].style.overflow = "visible";
+        tab[i].style.display = "table";
+        tab[i].style.width = "100%";
+    }
 
     var tab2 = document.querySelectorAll(".blogcontent");
     for (var i = 0 ; i < tab.length ; i++) tab[i].style.fontSize = "18px";
