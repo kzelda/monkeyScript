@@ -7,3 +7,10 @@
 
 
 
+<ul>
+
+<li>
+<a href="https://raw.githubusercontent.com/kzelda/monkeyScript/master/scripts/developpez.net.user.js">developpez.net.user.js</a>
+</li>
+
+</ul>
