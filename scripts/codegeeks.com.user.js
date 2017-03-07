@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         codegeeks
-// @namespace    https://github.com/kzelda/monkeyScript/
+// @namespace    https://github.com/kzelda/monkeyScript
 // @version      0.1
 // @description  read in full width page
 // @author       You
